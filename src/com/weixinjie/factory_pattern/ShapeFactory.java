@@ -1,4 +1,4 @@
-package com.weixinjie.factory_patern;
+package com.weixinjie.factory_pattern;
 
 public class ShapeFactory {
     public static Shape getShape(String type) {

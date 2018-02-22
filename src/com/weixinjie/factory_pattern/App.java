@@ -1,4 +1,4 @@
-package com.weixinjie.factory_patern;
+package com.weixinjie.factory_pattern;
 
 /**
  * 工厂模式

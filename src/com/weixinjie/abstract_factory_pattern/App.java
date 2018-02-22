@@ -1,8 +1,6 @@
 package com.weixinjie.abstract_factory_pattern;
 
 
-import com.weixinjie.factory_patern.Circle;
-
 /**
  * 抽象工厂模式
  * 该模式是围绕一个超级工厂创建其他的工厂类
